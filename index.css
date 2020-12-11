@@ -1,0 +1,21 @@
+h1{
+  color: teal;
+  border-style: solid;
+  border-color: black;
+  display:inline-block;
+  background-color: yellow;
+
+}
+h2{
+  color: orange
+}
+#first{
+  color: lime
+}
+#second{
+  color: lime
+}
+body{
+  background-color: mint
+
+}
